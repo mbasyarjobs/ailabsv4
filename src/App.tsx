@@ -360,13 +360,13 @@ export default function App() {
                     id: "video-1",
                     title: "Claymation Style Animation",
                     desc: "Contoh animasi clay motion dengan tekstur lembut dan warna pastel.",
-                    src: "https://youtu.be/pQ492euyWlk?si=15vsiaSG8Wci_yt_",
+                    src: "/assets/anime.mp4",
                   },
                   {
                     id: "video-2",
                     title: "3D CGI Character Motion",
                     desc: "Demonstrasi karakter 3D dengan rigging dan motion capture realistis.",
-                    src: "https://commondatastorage.googleapis.com/gtv-videos-library/sample/ElephantsDream.mp4",
+                    src: "/assets/anime 2.mp4",
                   },
                 ].map((video) => (
                   <div
