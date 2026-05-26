@@ -1,0 +1,6 @@
+{
+  "name": "AI Animation Studio Hub",
+  "description": "Platform modern untuk tools AI animasi, referensi style, dan kolaborasi kreatif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
