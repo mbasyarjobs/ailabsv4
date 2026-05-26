@@ -339,22 +339,6 @@ export default function App() {
             {/* Top Bar Decoration */}
             <div className="absolute top-0 inset-x-0 h-[1px] bg-gradient-to-r from-transparent via-cyan-500/50 to-transparent" />
 
-            <div className="flex items-center gap-2 px-3 py-2 bg-black/40 rounded-t-xl border-b border-white/10 text-xs font-mono text-slate-400 justify-between">
-              <div className="flex items-center gap-1.5 font-sans">
-                <span className="w-2.5 h-2.5 rounded-full bg-rose-500/60" />
-                <span className="w-2.5 h-2.5 rounded-full bg-amber-500/60" />
-                <span className="w-2.5 h-2.5 rounded-full bg-emerald-500/60" />
-                <span className="ml-2 text-[11px] text-slate-300 font-medium">
-                  storyboard_preset_archives.json
-                </span>
-              </div>
-              <div className="flex items-center gap-3">
-                <span className="text-brand-cyan flex items-center gap-1 font-sans font-medium text-[11px]">
-                  Arsip Prompt Siap Salin
-                </span>
-              </div>
-            </div>
-
             {/* Embedded static showcase panel */}
             <div className="bg-black/20 p-5 md:p-8 rounded-b-xl text-left space-y-6">
               <div className="space-y-3">
@@ -376,7 +360,7 @@ export default function App() {
                     id: "video-1",
                     title: "Claymation Style Animation",
                     desc: "Contoh animasi clay motion dengan tekstur lembut dan warna pastel.",
-                    src: "https://commondatastorage.googleapis.com/gtv-videos-library/sample/BigBuckBunny.mp4",
+                    src: "https://youtu.be/pQ492euyWlk?si=15vsiaSG8Wci_yt_",
                   },
                   {
                     id: "video-2",
